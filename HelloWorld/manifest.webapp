@@ -1,0 +1,12 @@
+{
+	"name":"Hello World",
+	"description": "My first Hello World app!",
+	"launch_path": "/index.html",
+	"icons": {
+		"128":"/icon.png"
+	},
+	"developer": {
+		"name": "Tchaly"
+	},
+	"default_locale":"en"
+}

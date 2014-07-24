@@ -1,0 +1,12 @@
+{
+	"name":"Hello Script",
+	"description": "My first script testing !",
+	"launch_path": "/index.html",
+	"icons": {
+		"128":"/icon.png"
+	},
+	"developer": {
+		"name": "Tchaly"
+	},
+	"default_locale":"en"
+}
